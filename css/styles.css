@@ -1,0 +1,15 @@
+.page {
+	width: 850px;
+	background-color: white;
+	margin: auto;
+	padding: 50px;
+	padding-top: 35px;
+  }
+  
+.vis-container {
+	width: 100%;
+}
+
+.pure-g {
+  margin-bottom: 40px;
+}
