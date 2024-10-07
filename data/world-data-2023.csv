@@ -32,7 +32,7 @@ Cape Verde,Africa,2.27,1981845741,483628
 Cambodia,Asia,2.5,27089389787,16486542
 Cameroon,Africa,4.57,38760467033,25876380
 Canada,North America,1.5,1.74E+12,36991981
-Central African Republic,Africa,4.72,2220307369,4745185
+Central African Rep.,Africa,4.72,2220307369,4745185
 Chad,Africa,5.75,11314951343,15946876
 Chile,South America,1.65,2.82E+11,18952038
 China,Asia,1.69,1.99E+13,1397715000
@@ -44,7 +44,7 @@ Croatia,Europe,1.47,60415553039,4067500
 Cuba,North America,1.62,1.00E+11,11333483
 Cyprus,Europe,1.33,24564647935,1198575
 Czech Republic,Europe,1.69,2.46E+11,10669709
-Democratic Republic of the Congo,Africa,5.92,47319624204,86790567
+Dem. Rep. Congo,Africa,5.92,47319624204,86790567
 Denmark,Europe,1.73,3.48E+11,5818553
 Djibouti,Africa,2.73,3318716359,973560
 Dominica,North America,1.9,596033333,71808
@@ -161,7 +161,7 @@ Solomon Islands,Oceania,4.4,1425074226,669823
 Somalia,Africa,6.07,4720727278,15442905
 South Africa,Africa,2.41,3.51E+11,58558270
 South Korea,Asia,0.98,2.03E+12,51709098
-South Sudan,Africa,4.7,11997800751,11062113
+S. Sudan,Africa,4.7,11997800751,11062113
 Spain,Europe,1.26,1.39E+12,47076781
 Sri Lanka,Asia,2.2,84008783756,21803000
 Sudan,Africa,4.41,18902284476,42813238
