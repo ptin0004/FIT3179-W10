@@ -111,7 +111,7 @@
           "opacity": {"value": 0.6},
           "tooltip": [
             {"field": "Country", "type": "nominal"},
-            {"field": "Fertility_Rate", "type": "quantitative", "format": ","},
+            {"field": "Fertility_Rate", "type": "quantitative", "format": ",", "title": "Fertility Rate(%)"},
             {"field": "GDP", "type": "quantitative", "format": ","},
             {
                 "field": "GDP per 10,000 Population (Millions)",
@@ -142,7 +142,7 @@
           },
           "tooltip": [
             {"field": "Country", "type": "nominal"},
-            {"field": "Fertility_Rate", "type": "quantitative", "format": ","},
+            {"field": "Fertility_Rate", "type": "quantitative", "format": ",", "title": "Fertility Rate(%)"},
             {"field": "GDP", "type": "quantitative", "format": ","},
             {
               "field": "GDP per 10,000 Population (Millions)",
